@@ -77,3 +77,5 @@ D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplica
 D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CopyComplete
 D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.dll
 D:\UEH\2..2 - UEH\Phan tich thiet ke he thong\WebApplicationDoAnFinal\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.pdb
+C:\Users\84905\OneDrive\Desktop\GIT\Ecommerce-Website\WebDoAnFinal\CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.AssemblyReference.cache
+C:\Users\84905\OneDrive\Desktop\GIT\Ecommerce-Website\WebDoAnFinal\CODE\WebApplicationDoAnFinal\obj\Debug\WebApplicationDoAnFinal.csproj.CoreCompileInputs.cache
